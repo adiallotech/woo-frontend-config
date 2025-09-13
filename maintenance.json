@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "message": "Notre boutique est actuellement en maintenance. Nous serons de retour très bientôt !",
   "allowedIPs": []
 }
